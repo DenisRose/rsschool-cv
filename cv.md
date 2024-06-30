@@ -7,7 +7,7 @@ ___
 + Githab: https://github.com/DenisRose
 + Location: Republic of Belarus, Mogilev
 ___
-## about me
+## About me
 Beginner Frontend Developer.
 ___
 ## Skills
