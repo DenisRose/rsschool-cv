@@ -6,15 +6,15 @@ ___
 + Email: d.shymanouski@gmail.com
 + Githab: https://github.com/DenisRose
 + Location: Republic of Belarus, Mogilev
-
+___
 ## about me
 Beginner Frontend Developer.
-
+___
 ## Skills
 
 + HTML
 + CSS
-
+___
 ## Example code
 ```
 <div class="purple-cloud"></div>
@@ -29,11 +29,11 @@ Beginner Frontend Developer.
             <a href="#">ПОИСК</a>
         </div>
 ```
-
+___
 ## Education
 **IT-Academy**
 WEBSITE DEVELOPMENTS WITH HTML, CSS & JAVASCRIPT 
-
+___
 ## language
 
  English A2
