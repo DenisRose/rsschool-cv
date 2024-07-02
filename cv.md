@@ -7,14 +7,17 @@ ___
 + Githab: https://github.com/DenisRose
 + Location: Republic of Belarus, Mogilev
 ___
+
 ## About me
 Beginner Frontend Developer.
 ___
+
 ## Skills
 
 + HTML
 + CSS
 ___
+
 ## Example code
 ```
 <div class="purple-cloud"></div>
@@ -34,6 +37,7 @@ ___
 **IT-Academy**
 WEBSITE DEVELOPMENTS WITH HTML, CSS & JAVASCRIPT 
 ___
+
 ## language
 
  English A2
