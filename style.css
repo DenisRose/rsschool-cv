@@ -1,6 +1,70 @@
- 
- body {
+body {
     color: #3d5757;
     background-color: #F0FFF0;
  }
- 
+ .menu-list{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    gap: 10px;
+    border: 1px solid green;
+    width: auto;
+    height: 100px;
+    padding-right: 40px;
+}
+.Denis {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.main-container {
+    display: flex;
+  flex-wrap: wrap;
+  
+}
+.end-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid green;
+    width: auto;
+    height: 100px;
+    padding: 20px;
+}
+
+.Contacts {
+    width: 50%;
+    
+}
+.list-contacts {
+    list-style: none;
+}
+
+.About-me {
+    width: 50%;
+    text-align: end;
+}
+
+.Skills {
+    width: 50%;
+    
+}
+
+.list-skills {
+    list-style: none;
+}
+
+.Example-code {
+    width: 50%;
+    text-align: end;
+}
+
+.Education {
+   width: 50%;
+}
+
+.language {
+    width: 50%;
+    text-align: end;
+}
