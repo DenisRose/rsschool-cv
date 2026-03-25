@@ -9,9 +9,9 @@ ___
 ___
 
 ## About me
-Beginner Frontend Developer.
-My goals: Writing code and enjoying it.
-work experience: building websites using figma templates
++ Beginner Frontend Developer.  
++ My goals: Writing code and enjoying it. 
++ work experience: building websites using figma templates
 ___
 
 ## Skills
